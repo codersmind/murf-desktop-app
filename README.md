@@ -2,8 +2,6 @@
 
 ---
 
-
-
 ### Please take care of the following steps before installing the application:
 
 1) Python Installation:
@@ -29,6 +27,10 @@
 * Run the installer and ensure you check the option **"Add Python to PATH"** before clicking the **Install** button (refer to the attached screenshot).
 
 ![image.png](https://raw.githubusercontent.com/codersmind/murf-desktop-app/refs/heads/main/assets/image%20(3).png)
+
+---
+
+### Download exe file [click here  ⬇️ ](https://github.com/codersmind/murf-desktop-app/releases) [ Setup.exe ]
 
 4) Installing the Application:* Run Murf Desktop-1.0.1 Setup.exe to start the installation process.
 
